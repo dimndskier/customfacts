@@ -1,0 +1,14 @@
+{
+  "name": "wfrench-customfacts",
+  "version": "0.9.9",
+  "author": "wfrench",
+  "summary": "To enable the project to determine various facts about all or many systems after a puppet run is completed.",
+  "license": "Apache 2.0",
+  "source": "IAMS GitLab for MAS",
+  "project_page": "Author= wfrench",
+  "issues_url": "Author= wfrench",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
